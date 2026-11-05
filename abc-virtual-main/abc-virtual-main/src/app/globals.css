@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  padding-top: 70px;
+  background-image: url("/svg/starry-bg.svg");
+  background-size: cover;
+}
